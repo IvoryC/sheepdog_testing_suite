@@ -1,0 +1,8 @@
+#!/noooooooop
+
+# nonExecutable
+
+# I'm an example of a file that exists, but is not executable
+
+# This line should never actually execute.
+echo "Something is not right. This script specifically made to NOT be execuatable"
